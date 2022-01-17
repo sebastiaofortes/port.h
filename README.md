@@ -10,5 +10,7 @@ veja um exemplo abaixo com um clássico Hello Word: \
 #include "port.h"            \
 principal(){                  \
       escrever("ola mundo\n"); \
-      sistema("PAUSE");         \    
-       }                         \ 
+      sistema("PAUSE");            
+       }                         
+       
+       
